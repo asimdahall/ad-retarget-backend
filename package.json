@@ -1,0 +1,19 @@
+{
+  "name": "apr",
+  "version": "1.0.0",
+  "description": "aprori algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node example.js"
+  },
+  "author": "madhu kumar d s <madhudskumar@live.in>",
+  "license": "MIT",
+  "dependencies": {
+    "apriori": "^1.0.7",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "frequent-itemset": "^1.0.5",
+    "generatorics": "^1.0.8",
+    "js-combinatorics": "^0.5.2"
+  }
+}
